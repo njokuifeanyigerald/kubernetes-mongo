@@ -1,0 +1,1 @@
+used kubernetes to connect both mongodb and mongo express
